@@ -40,7 +40,7 @@ const EMPLOYEES = {
   "248": { employeeName: "محمد ذبیحی", password: "0070365581" },
   "249": { employeeName: "امیر مهدی بالسینی", password: "0151008868" },
   "250": { employeeName: "بهرام غفاری", password: "0016493826" },
-  "251": { employeeName: "امیر حسین محمدی", password: "9852365896" },
+  "251": { employeeName: "امیر حسین محمدی", password: "0025935895" },
   "255": { employeeName: "سعید دارابی", password: "255" },
   "256": { employeeName: "زهرا دوستی", password: "0074188461" },
   "257": { employeeName: "فاطمه نیگسان", password: "0023282797" },
@@ -48,7 +48,7 @@ const EMPLOYEES = {
   "259": { employeeName: "ساجده سادات پرپوجی", password: "0603338658" },
   "260": { employeeName: "سعیده سادات پرپوچی", password: "0602435064" },
   "261": { employeeName: "یاسمین نعمتی", password: "0011763027" },
-  "262": { employeeName: "محمد مصطفایی", password: "262" },
+  "262": { employeeName: "محمد مصطفایی", password: "0153952113" },
   "263": { employeeName: "هانیه برهان راد", password: "0022544631" },
   "264": { employeeName: "نام پرسنل ثبت نشده", password: "264" }
 };
