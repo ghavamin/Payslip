@@ -4,7 +4,7 @@ const EMPLOYEES = {
   "48": { employeeName: "ندا کاری خامنه", password: "0021371601" },
   "53": { employeeName: "مجتبی یوسفی", password: "0016739442" },
   "55": { employeeName: "دکتر فرینوش شمس", password: "0016939700" },
-  "58": { employeeName: "یگانه باقری", password: "58" },
+  "58": { employeeName: "یگانه باقری", password: "0110573277" },
   "60": { employeeName: "غزل جعفر بگلو", password: "0025891626" },
   "61": { employeeName: "حمید احمد بیگی", password: "3320213660" },
   "62": { employeeName: "پرنیا راحتی", password: "0110739639" },
