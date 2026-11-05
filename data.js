@@ -59,5 +59,6 @@ const EMPLOYEES = {
   "261": { employeeName: "یاسمین نعمتی", password: "0011763027" },
   "262": { employeeName: "محمد مصطفایی", password: "0153952113" },
   "263": { employeeName: "هانیه برهان راد", password: "0022544631" },
-  "265": { employeeName: "عالیه بابایی", password: "4610440377" }
+  "265": { employeeName: "عالیه بابایی", password: "1212121212" },
+  "266": { employeeName: "عالیه بابایی", password: "4610440377" }
 };
