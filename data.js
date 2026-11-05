@@ -4,7 +4,8 @@ const EMPLOYEES = {
   "48": { employeeName: "ندا کاری خامنه", password: "0021371601" },
   "53": { employeeName: "مجتبی یوسفی", password: "0016739442" },
   "55": { employeeName: "دکتر فرینوش شمس", password: "0016939700" },
-  "58": { employeeName: "یگانه باقری", password: "58" },
+  "58": { employeeName: "یگانه باقری", password: "0110573277" },
+  "60": { employeeName: "غزل جعفر بگلو", password: "0025891626" },
   "61": { employeeName: "حمید احمد بیگی", password: "3320213660" },
   "62": { employeeName: "پرنیا راحتی", password: "0110739639" },
   "63": { employeeName: "محمد امین کرمی", password: "0012212857" },
@@ -28,6 +29,7 @@ const EMPLOYEES = {
   "189": { employeeName: "محمدرضا کاهه", password: "0022738533" },
   "192": { employeeName: "اصغر محققی", password: "5029186921" },
   "198": { employeeName: "اتابک گنجی زاده", password: "0069016674" },
+  "200": { employeeName: "فرانک فتح اللهی", password: "4132594890" },
   "203": { employeeName: "علیرضا سرافرازی", password: "0370565223" },
   "217": { employeeName: "نازنین خادم", password: "0110488113" },
   "219": { employeeName: "ندا کاری خامنه", password: "0021371601" },
@@ -57,5 +59,5 @@ const EMPLOYEES = {
   "261": { employeeName: "یاسمین نعمتی", password: "0011763027" },
   "262": { employeeName: "محمد مصطفایی", password: "0153952113" },
   "263": { employeeName: "هانیه برهان راد", password: "0022544631" },
-  "264": { employeeName: "نام پرسنل ثبت نشده", password: "264" }
+  "265": { employeeName: "عالیه بابایی", password: "4610440377" }
 };
